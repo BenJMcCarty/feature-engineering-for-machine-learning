@@ -26,3 +26,4 @@ venv.bak/
 # files not to put in repo
 Make-toy-finance-dataset.ipynb
 tbf
+/Datasets/
